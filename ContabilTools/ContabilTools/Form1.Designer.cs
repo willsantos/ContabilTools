@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1008, 729);
             Name = "FrmMain";
-            Text = "Form1";
+            Text = "Contabil Tools";
             ResumeLayout(false);
         }
 
